@@ -1,1 +1,1 @@
-# Megatron-style-MPI-optimization
+# Megatron-style-MPI-Tensor-Parallelism
